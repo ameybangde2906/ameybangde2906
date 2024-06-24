@@ -1,4 +1,4 @@
-[MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Amey Bangde</h1>
 <h3 align="center">Enthusiastic Web Developer Ready to Deliver Creative Solutions</h3>
 <img align="right" width="400" src="https://media.tenor.com/GPt5HA7g2yEAAAAM/r-studio-matlab.gif
