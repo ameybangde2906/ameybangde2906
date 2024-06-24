@@ -3,7 +3,6 @@
 <h3 align="center">Enthusiastic Web Developer Ready to Deliver Creative Solutions</h3>
 <img align="right" alt="gif" width="400" src="https://media.tenor.com/GPt5HA7g2yEAAAAM/r-studio-matlab.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameybangde2906" alt="ameybangde2906" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
