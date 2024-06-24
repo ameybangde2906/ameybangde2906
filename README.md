@@ -1,8 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Amey Bangde</h1>
 <h3 align="center">Enthusiastic Web Developer Ready to Deliver Creative Solutions</h3>
-<img align="right" width="400" src="https://media.tenor.com/GPt5HA7g2yEAAAAM/r-studio-matlab.gif
-">
+<img align="right" alt="gif" width="400" src="https://media.tenor.com/GPt5HA7g2yEAAAAM/r-studio-matlab.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameybangde2906" alt="ameybangde2906" /></a> </p>
 
@@ -16,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ameybangde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameybangde" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amey-bangde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameybangde" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
