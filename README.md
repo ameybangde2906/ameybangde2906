@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://amey-bangde.onrender.com](https://amey-bangde.onrender.com)
+- 👨‍💻 All of my projects are available at [https://ameybangde.onrender.com](https://ameybangde.onrender.com)
 
 - 💬 Ask me about **MEARN**
 
