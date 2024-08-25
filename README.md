@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameybangde2906&label=Profile%20views&color=0e75b6&style=flat" alt="ameybangde2906" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JAVA**
 
 - 👨‍💻 All of my projects are available at [https://ameybangde.onrender.com](https://ameybangde.onrender.com)
 
